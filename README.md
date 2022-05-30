@@ -1,0 +1,3 @@
+# kotlin_mybatis3_sample
+kotlin + mybatis3を利用してデータベースにアクセスするサンプルになります  
+付属のdocker-compose.yamlでローカルにmysqlサーバを起動させたあとに動作確認を行ってください。
